@@ -3,11 +3,11 @@ import "./App.css";
 
 const App = () => {
   const handleRegister = () => {
-    window.location.href = "https://www.google.com";
+    window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLSeEiMGtAgVl1t9cgHwod6QU6T_cVn6dOR9c_pSRH85bLtyASw/viewform";
   };
 
   const handleInstagram = () => {
-    window.location.href = "https://www.instagram.com/grayslake_running_club/";
+    window.location.href = "https://www.instagram.com/runcrs/";
   };
 
   return (

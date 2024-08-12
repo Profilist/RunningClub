@@ -27,7 +27,7 @@ const App = () => {
             <h2> JOIN OUR RUNS</h2>
           </div>
           <p>
-            At our running club, we pride ourselves on being an inclusive and
+            At Vercel, we pride ourselves on being an inclusive and
             welcoming community of runners. Whether you're just starting out or
             you're a seasoned marathoner, you'll find a place with us. Our club
             is open to runners of all races, genders, ages, and abilities. We
